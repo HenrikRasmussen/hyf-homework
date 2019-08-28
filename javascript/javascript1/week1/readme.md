@@ -1,3 +1,4 @@
+<!-- 
 <!DOCTYPE html>
 <html>
 <button id="futureAge">FUTURE AGE CALCULATOR</button>
@@ -5,6 +6,7 @@
 <button id="housePrice">HOUSE PRICE CALCULATOR</button>
 <button id="ezNamey">STARTUP NAME GENERATOR</button>
 <div id="result"></div>
+-->
 <script>
     var result;
     
